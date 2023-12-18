@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SumCalculator</string>
+    <string name="the_result_is">The result is = %s</string>
+</resources>
